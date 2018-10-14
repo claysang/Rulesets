@@ -1,0 +1,46 @@
+# macOS
+PROCESS-NAME,akd
+PROCESS-NAME,AppleIDAuthAgent
+PROCESS-NAME,cloudd
+PROCESS-NAME,cloudpaird
+PROCESS-NAME,iTunes
+PROCESS-NAME,iTunesASUHelper
+PROCESS-NAME,locationd
+PROCESS-NAME,Mac
+PROCESS-NAME,MobileAsset
+PROCESS-NAME,parsecd
+PROCESS-NAME,Software Update
+PROCESS-NAME,storeaccountd
+PROCESS-NAME,storeassetd
+PROCESS-NAME,storedownloadd
+PROCESS-NAME,storeinappd
+PROCESS-NAME,syncdefaultsd
+PROCESS-NAME,trustd
+
+# iOS UA
+USER-AGENT,*appstore*
+USER-AGENT,*AppStore*
+USER-AGENT,*AssistantServices*
+USER-AGENT,*cloudd*
+USER-AGENT,*CloudKit*
+USER-AGENT,*FMDClient*
+USER-AGENT,*geod*
+USER-AGENT,*ind*
+USER-AGENT,*itunes*
+USER-AGENT,*MobileAsset*
+USER-AGENT,*networkserviceproxy*
+USER-AGENT,*Parsecd*
+USER-AGENT,*RTCReporting*
+USER-AGENT,*Settings*
+USER-AGENT,*SyncedDefaults*
+USER-AGENT,*watchlistd*
+
+# Apple URL
+DOMAIN-KEYWORD,apple
+DOMAIN-KEYWORD,icloud
+DOMAIN-KEYWORD,mzstatic
+DOMAIN-KEYWORD,akamai
+DOMAIN-KEYWORD,itunes
+DOMAIN-KEYWORD,aaplimg
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,itun.es
