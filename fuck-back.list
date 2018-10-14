@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
+
 DOMAIN-KEYWORD,duckduckgo
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,1password
@@ -40,6 +41,7 @@ DOMAIN-KEYWORD,wikimedia
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,wordpress
 DOMAIN-KEYWORD,youtube
+
 DOMAIN-SUFFIX,4sqi.net
 DOMAIN-SUFFIX,9to5mac.com
 DOMAIN-SUFFIX,abpchina.org
@@ -143,7 +145,6 @@ DOMAIN-SUFFIX,imore.com
 DOMAIN-SUFFIX,independent.co.uk
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,is.gd
-DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,ixquick.com
 DOMAIN-SUFFIX,j.mp
 DOMAIN-SUFFIX,jshint.com
@@ -164,7 +165,6 @@ DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,mathjax.org
-DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
