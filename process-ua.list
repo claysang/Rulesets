@@ -1,0 +1,6 @@
+# High Priority Process
+PROCESS-NAME,Tweetbot
+
+# High Priority iOS UA
+USER-AGENT,*1Password*
+USER-AGENT,*Tweetbot*
