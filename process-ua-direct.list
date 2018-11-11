@@ -1,3 +1,4 @@
 # Direct Policy iOS UA
 USER-AGENT,*MicroMessenger*
+USER-AGENT,*WeChat*
 USER-AGENT,*Moke*
