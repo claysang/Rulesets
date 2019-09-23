@@ -1,14 +1,8 @@
 # Blocked sites fuck-back
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,t.co
 
-DOMAIN-KEYWORD,duckduckgo
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,1password
-DOMAIN-KEYWORD,agilebits
-
 DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,agilebits
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,ampproject
 DOMAIN-KEYWORD,appledaily
@@ -19,11 +13,13 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,cloudfront
 DOMAIN-KEYWORD,dribbble
 DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,duckduckgo
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,fastmail
 DOMAIN-KEYWORD,flipboard
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,ifttt
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,instapaper
@@ -34,6 +30,7 @@ DOMAIN-KEYWORD,quora
 DOMAIN-KEYWORD,reddit
 DOMAIN-KEYWORD,squarespace
 DOMAIN-KEYWORD,tumblr
+DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,urbanairship
 DOMAIN-KEYWORD,vimeo
 DOMAIN-KEYWORD,vsco
@@ -161,7 +158,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
-DOMAIN-SUFFIX,syncbits.com
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
@@ -226,6 +222,8 @@ DOMAIN-SUFFIX,staticflickr.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,syncbits.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
 DOMAIN-SUFFIX,tdesktop.com
@@ -241,6 +239,7 @@ DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
+DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,typekit.net
