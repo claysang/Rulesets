@@ -1,4 +1,4 @@
-# Direct Policy iOS UA
+# CN iOS app UA
 USER-AGENT,*MicroMessenger*
 USER-AGENT,*WeChat*
 
