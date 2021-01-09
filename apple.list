@@ -23,7 +23,6 @@ USER-AGENT,*cloudd*
 USER-AGENT,*CloudKit*
 USER-AGENT,*FMDClient*
 USER-AGENT,*geod*
-USER-AGENT,*ind*
 USER-AGENT,*itunes*
 USER-AGENT,*MobileAsset*
 USER-AGENT,*networkserviceproxy*
