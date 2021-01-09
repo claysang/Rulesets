@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,behance
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,cloudfront
+DOMAIN-KEYWORD,doubleclick
 DOMAIN-KEYWORD,dribbble
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,duckduckgo
@@ -16,6 +17,7 @@ DOMAIN-KEYWORD,fastmail
 DOMAIN-KEYWORD,firefox
 DOMAIN-KEYWORD,flipboard
 DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,globalsign
 DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,ifttt
@@ -151,6 +153,7 @@ DOMAIN-SUFFIX,nodejs.org
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,office365.com
@@ -193,6 +196,7 @@ DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,surge-activation.com
 DOMAIN-SUFFIX,syncbits.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tdesktop.com
